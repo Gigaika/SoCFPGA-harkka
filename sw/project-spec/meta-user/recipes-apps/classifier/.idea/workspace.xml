@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea4bd7a2-ed8c-418c-b24b-49554deed0ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1atL7wJdbhoaICstt2mTaS4W7eM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea4bd7a2-ed8c-418c-b24b-49554deed0ff" name="Default Changelist" comment="" />
+      <created>1587549779859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587549779859</updated>
+      <workItem from="1587549781072" duration="12369000" />
+      <workItem from="1587577034004" duration="9667000" />
+      <workItem from="1587627858576" duration="16018000" />
+      <workItem from="1587717616834" duration="19377000" />
+      <workItem from="1587814213105" duration="599000" />
+      <workItem from="1587819780473" duration="14324000" />
+      <workItem from="1587912856209" duration="5992000" />
+      <workItem from="1587941861053" duration="11798000" />
+      <workItem from="1587988677659" duration="22479000" />
+      <workItem from="1588078776438" duration="32939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1246" y="511" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587847268423">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1246" y="511" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1587847268423" />
+    <state x="582" y="463" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587555338385">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="582" y="463" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1587555338385" />
+    <state x="93" y="128" width="1596" height="1197" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588101739418">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="93" y="128" width="1596" height="1197" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1588101739418" />
+    <state x="341" y="599" key="com.intellij.ide.util.TipDialog" timestamp="1588078859191">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="341" y="599" key="com.intellij.ide.util.TipDialog/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1588078859191" />
+    <state x="67" y="27" width="1085" height="1355" key="dock-window-1" timestamp="1588084552829">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="67" y="27" width="1085" height="1355" key="dock-window-1/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1588084552829" />
+    <state x="762" y="379" width="672" height="678" key="search.everywhere.popup" timestamp="1588106722027">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="762" y="379" width="672" height="678" key="search.everywhere.popup/67.27.2493.1413/2560.0.1920.1080@67.27.2493.1413" timestamp="1588106722027" />
+  </component>
+</project>
