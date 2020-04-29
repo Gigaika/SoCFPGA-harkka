@@ -9,7 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4bd7a2-ed8c-418c-b24b-49554deed0ff" name="Default Changelist" comment="" />
+    <list default="true" id="ea4bd7a2-ed8c-418c-b24b-49554deed0ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../hw/design_1_wrapper.xsa" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../hw/design_1_wrapper.xsa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw-description/design_1_wrapper.bit" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw-description/design_1_wrapper.bit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hw-description/system.xsa" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hw-description/system.xsa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recipes-bsp/device-tree/files/system-user.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/../../recipes-bsp/device-tree/files/system-user.dtsi" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,11 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
   <component name="ProjectId" id="1atL7wJdbhoaICstt2mTaS4W7eM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,6 +63,7 @@
       <workItem from="1587941861053" duration="11798000" />
       <workItem from="1587988677659" duration="22479000" />
       <workItem from="1588078776438" duration="32939000" />
+      <workItem from="1588182132009" duration="5000" />
     </task>
     <servers />
   </component>

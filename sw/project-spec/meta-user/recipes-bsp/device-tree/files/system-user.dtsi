@@ -12,6 +12,6 @@
 };
 
 
-&ImageClassifier_0 {
+&PixelClassifier_0 {
     compatible = "generic-uio";
 };
